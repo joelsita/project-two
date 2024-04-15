@@ -90,14 +90,14 @@ nav ul li a{
  
  .game-rules, .game-place{
     width: 50%;
-     margin: auto;
+    margin: auto;
     text-align: center;
   }
 
 
 
     .game-rules h2{
-      margin: 25px 30px;
+      margin: 10px 20px;
       font-size: 25px;
       color: #fff;
     }
@@ -200,7 +200,6 @@ nav ul li a{
     color: #fff;
     padding: 12px 25px;
     letter-spacing: 1.5px;
-    background-color: red;
   }
   
   
