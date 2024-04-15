@@ -175,8 +175,41 @@ nav ul li a{
     font-size: 1.5rem;
   }
 /* added hover affect to change color once user hover on restart button */
-  #reset-bnt:hover{
+  #reset-btn:hover{
     background-color: rgb(107, 120, 120);
   }
   
 /*  End of game  page */
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 600px) {
+
+  img{
+    width: 150%;
+    height: 150%;
+    padding-right: 50px;
+    margin: auto;
+  }
+
+  .choices button{
+    font-size: 3rem;
+    margin: 0 5px;
+  }
+
+  .game-rules .btn{
+    color: #fff;
+    padding: 12px 25px;
+    letter-spacing: 1.5px;
+    background-color: red;
+  }
+  
+  
+}
+@media only screen and (min-width: 600px) {
+  img{
+    width: 100%;
+   
+  }
+
+
+}
