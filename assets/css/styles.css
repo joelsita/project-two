@@ -46,8 +46,9 @@ nav h1{
   float: left;
   line-height: 80px;
   font-size: 35px;
-  color:#efdfd4;
+  color:#e3dad4;
   display: inline;
+  font-weight: 900;
 
 }
 nav ul{
@@ -60,10 +61,15 @@ nav ul li{
 }
 
 nav ul li a{
-  color:black;
-  background-color:#efdfd4;
+  color:#fff;
+  background-color:blue;
   border-radius: 5px;
   padding: 7px 8px;
   transition: background-color 0.5s ease;
   }
+/* Added hover effect when user hover the menu links to change colors */
+  nav ul li a:hover{
+    background-color: #eb7620;
+  }
+  
 /*  End of Home landing page */
