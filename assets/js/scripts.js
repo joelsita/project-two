@@ -1,9 +1,11 @@
+// to remove arrow function syntax (=>)' is only available in ES6 (use 'esversion: 6')
+/*jshint esversion: 6 */
 //  selecting all the elements and storing the value
 
-const computerChoiceDisplay = document.getElementById('computer-choice')
-const userChoiceDisplay = document.getElementById('user-choice')
-const resultDisplay = document.getElementById('result')
-const possibleChoices = document.querySelectorAll('button')
+const computerChoiceDisplay = document.getElementById('computer-choice');
+const userChoiceDisplay = document.getElementById('user-choice');
+const resultDisplay = document.getElementById('result');
+const possibleChoices = document.querySelectorAll('button');
 const computerScores = document.getElementById('computerScores');
 const playerScores = document.getElementById('playerScores');
 
