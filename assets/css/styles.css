@@ -155,4 +155,13 @@ nav ul li a{
 .Scores{
   font-size: 30px;
 }
+
+/* change message text colors */
+.winText, #playerScores{
+  color: green;
+  }
+
+  .loseText, #computerScores {
+    color: red;
+  }
 /*  End of game  page */
