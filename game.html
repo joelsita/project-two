@@ -1,28 +1,65 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-     <!-- search engines meta tags make website accessible -->
-     <meta
-     name="description"
-     content="rock paper Scissors game ,rock game, paper game, Scissors game "
-   />
-   <meta
-     name="keywords"
-     content="rock paper Scissors game. online game rock paper Scissors game , two player rock paper Scissors game "
-   />
-    <title>Rock Paper Scissors</title>
-       <!-- css style sheet -->
-    <link rel="stylesheet" href="assets/css/styles.css">
-  </head>
-<body>
-     <!-- div container so the page doesn't screcth -->
-  <div class="container">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  </div>
+    <!-- search engines meta tags make website accessible -->
+    <meta
+      name="description"
+      content="rock paper Scissors game ,rock game, paper game, Scissors game "
+    />
+    <meta
+      name="keywords"
+      content="rock paper Scissors game. online game rock paper Scissors game , two player rock paper Scissors game "
+    />
+    <title>Rock Paper Scissors</title>
+    <!-- css style sheet -->
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
+  <body>
+    <!-- div container so the page doesn't screcth -->
+    <div class="container">
+      <section>
+        <nav>
+          <h1>GAME</h1>
+          <ul>
+            <li><a href="index.html">HOME</a></li>
+            <li><a href="game.html" class="active">PLAY</a></li>
+          </ul>
+        </nav>
+        <div class="game-place">
+          <h1>Rock Paper Scissors</h1>
+          <div class="choices">
+            <button id="rock" >👊</button>
+            <button id="paper">🖐️</button>
+            <button id="scissors">✌️</button>
+          </div>
+          <div id="computerDisplay">
+            <h2>Computer: <span id="computer-choice"></span></h2>
+          </div>
+    
+          <div id="playerDisplay">
+            <h2>Player: <span id="user-choice"></span></h2>
+          </div>
+    
+          <div id="resultDisplay">
+            <h2>Result: <span id="result"></span></h2>
+          </div>
+        
+          <div class="Scores">
+          Computer Scores: <span id="computerScores">0</span>
+          </div>
+          <div class="Scores">
+            Player Scores: <span id="playerScores">0</span>
+            </div>
+          
+     
+            <button id="reset" onclick="window.location.reload()" >Restart</button>
+          </div>
+      </section>
+    </div>
     <!-- javescript -->
     <script src="assets/js/scripts.js"></script>
-</body>
+  </body>
 </html>
