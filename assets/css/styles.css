@@ -62,7 +62,7 @@ nav ul li{
 
 nav ul li a{
   color:#fff;
-  background-color:blue;
+  background-color:rgb(81, 81, 247);
   border-radius: 5px;
   padding: 7px 8px;
   transition: background-color 0.5s ease;
@@ -71,5 +71,17 @@ nav ul li a{
   nav ul li a:hover{
     background-color: #eb7620;
   }
+
+  nav ul li .active{
+    background-color: #e3dad4;
+    font-weight: 700;
   
+    }
+  
+ 
+ .game-rules{
+    width: 50%;
+     margin: auto;
+    text-align: center;
+  }
 /*  End of Home landing page */
