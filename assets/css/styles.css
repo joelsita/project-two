@@ -92,5 +92,30 @@ nav ul li a{
     font-weight: 8000;
     margin-bottom: 25px;
     }
+
+    .game-rules h2{
+      margin: 25px 30px;
+      font-size: 25px;
+      color: #fff;
+    }
+
+    .game-rules p{
+      font-size: 18px;
+      color: #2c0685;;
+      letter-spacing: 1.5px;
+      font-weight: 8000;
+      margin-bottom: 50px;
+      }
+    
+      .game-rules .btn{
+        color: #fff;
+        padding: 12px 25px;
+        letter-spacing: 1.5px;
+        background-color: rgb(81, 81, 247);
+      }
+    
+      .game-rules .btn:hover{
+        background-color: #eb7620;
+      }
     
 /*  End of Home landing page */
