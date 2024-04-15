@@ -84,4 +84,13 @@ nav ul li a{
      margin: auto;
     text-align: center;
   }
+
+  .game-rules h1{
+    font-size: 36px;
+    color: #fff;
+    letter-spacing: 1.5px;
+    font-weight: 8000;
+    margin-bottom: 25px;
+    }
+    
 /*  End of Home landing page */
