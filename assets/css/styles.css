@@ -21,3 +21,13 @@ body{
 
 
 /* Larger devices */
+
+/* Start of Home landing page */
+
+section{
+ min-height: 100vh;
+ background-color: rgb(142, 161, 179);
+}
+
+
+/*  End of Home landing page */
