@@ -66,21 +66,23 @@ function getResult() {
   // showing the results on screen with the message
   resultDisplay.innerHTML = result
 
-// Reseting the game back to zoro to clear the color messages
+//before displaying the rersult on screen, this will Reset the game back to zoro to clear the color messages
   resultDisplay.classList.remove("winText", "loseText");
   
-  // changing a message color to display different each time comuputer or player win
+  // to change the outcome message color to display different each time comuputer or player win
   switch(result){
     case 'You Win':
       resultDisplay.classList.add("winText")
+        //  to increase score each time
       playerScore ++;
-      playerScores.textContent=playerScore;
+      playerScores.textContent= playerScore;
       break;
 
       case 'You Lose':
         resultDisplay.classList.add("loseText")
+      //  to increase score each time
         computerScore ++;
-        computerScores.textContent=computerScore;
+        computerScores.textContent= computerScore;
         break;
   }
 

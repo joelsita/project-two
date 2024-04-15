@@ -156,7 +156,7 @@ nav ul li a{
   font-size: 30px;
 }
 
-/* change message text colors */
+/* change  the result outcome message colors */
 .winText, #playerScores{
   color: green;
   }
