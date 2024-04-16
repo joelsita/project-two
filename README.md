@@ -165,29 +165,29 @@ All th feaures of the website have been tested to make sure it working as design
   </thead>
   <tbody>
     <tr>
-      <td>Navbar| About</td>
-      <td>click on about link</td>
-      <td>This brings the user to about section</td>
+      <td>Navbar| Home</td>
+      <td>click on home link</td>
+      <td>This brings the user to home page</td>
     </tr>
     <tr>
-      <td>Navbar| Gallery</td>
-      <td>click on gallery link</td>
-      <td>This brings the user to Gallery section/ pass</td>
+      <td>Navbar| play game</td>
+      <td>click on play game link</td>
+      <td>This brings the user to game page/ pass</td>
     </tr>
     <tr>
-      <td>Navbar| Event</td>
-       <td>click on Event link</td>
-      <td>This brings the user to Event section/ pass/ all the text is readble/font and size  is good.</td>
+      <td>button| play now</td>
+       <td>click on play now button</td>
+      <td>This redirect user to play the game/ pass</td>
     </tr>
     <tr>
-       <td>Navbar| Contact</td>
-       <td>click on Contact link/ this brings the user to contact section. user tried to submit a form without filling all the required fields</td>
-      <td>This brings the user to Event section/user was prompt to fill the required field before submitting the form/ pass</td>
+       <td>button| game choices</td>
+       <td>click on each button and the button clicked is being displayed</td>
+      <td>/ pass</td>
     </tr>
     <tr>
-      <td>social media icon</td>
-       <td>click on icon link</td>
-      <td>this open new page and brings the user to our social media pages/ pass</td>
+      <td>restart button</td>
+       <td>click on restart</td>
+      <td>this set all the scores field back to zeo/ pass</td>
     </tr>
   </tbody>
 </table>
@@ -284,6 +284,7 @@ Website is tested acrossed below browsers to check performance
  
   </tbody>
 </table>
+## Manual Testing
 
 # Code Validation:
 ## HTML Validation
