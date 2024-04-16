@@ -87,7 +87,7 @@ Rock, Paper, Scissors. The familiar game of Rock, Paper, Scissors is played like
 
 
 ## Design
-Website is consist of one page. easy to navigate and smooth transition to go through each sections.
+The website consists of two pages. easy to navigate and smooth transition to go through each sections.
 ## Wireframes
   #### Desktop
   #### Home page
