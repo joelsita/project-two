@@ -144,6 +144,10 @@ Folder is set to / (root).
   - if computer wins the message is display in red colour
   - if user wins the message is display in green colour
   - if the result is tie then the message is displayed in black colour.
+- Game score section
+  - when computer win the score board is increamented by 1 and the colour is displayed in red. 
+   - when user win the score board is increamented by 1 and the colour is displayed in green. 
+
 
 ## About us Section
 This section provide about information about mags foundation. This outline your principle and goals. it provides great deatils of the services we operate.
