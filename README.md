@@ -149,7 +149,7 @@ The folder is set to / (root).
    ![score](assets/images/scores.png)
 # Testing:
 ## Features Testing
-All th feaures of the website have been tested to make sure it working as designed.
+All the features of the website have been tested to make sure it working as designed.
 
 <table>
   <thead>
@@ -168,28 +168,28 @@ All th feaures of the website have been tested to make sure it working as design
     <tr>
       <td>Navbar| play game</td>
       <td>click on play game link</td>
-      <td>This brings the user to game page/ pass</td>
+      <td>This brings the user to the game page/ pass</td>
     </tr>
     <tr>
       <td>button| play now</td>
        <td>click on play now button</td>
-      <td>This redirect user to play the game/ pass</td>
+      <td>This redirects the user to play the game/ pass</td>
     </tr>
     <tr>
        <td>button| game choices</td>
-       <td>click on each button and the button clicked is being displayed</td>
+       <td> Click on each button and the button clicked is displayed</td>
       <td>/ pass</td>
     </tr>
     <tr>
       <td>restart button</td>
        <td>click on restart</td>
-      <td>this set all the scores field back to zeo/ pass</td>
+      <td> This set all the scores field back to zero/ pass</td>
     </tr>
   </tbody>
 </table>
 
 ## Browser Testing
-Website is tested acrossed below browsers to check performance
+The website is tested across the below browsers to check the performance
 <table>
   <thead>
     <tr>
@@ -201,47 +201,17 @@ Website is tested acrossed below browsers to check performance
   <tbody>
     <tr>
       <td>Chrome</td>
-      <td>All the links, image and button appears good</td>
+      <td>All the links, images, and buttons appear good</td>
       <td>responsive design/ Good</td>
     </tr>
     <tr>
        <td>Edge</td>
-      <td>All the links, image and button appears good</td>
+      <td>All the links, images, and buttons appear good</td>
       <td>responsive design / Good</td>
     </tr>
     <tr>
       <td>Firefox</td>
-      <td>All the links, image and button appears good</td>
-      <td>responsive design/ Good</td>
-    </tr>
- 
-  </tbody>
-</table>
-
-##  Responsiveness
-Website is tested acrossed below browsers to check performance
-<table>
-  <thead>
-    <tr>
-      <th>Tested device</th>
-      <th>Appearance</th>
-      <th>Responsiveness</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Chrome</td>
-      <td>All the links, form, button appears good</td>
-      <td>responsive design/ Good</td>
-    </tr>
-    <tr>
-       <td>Edge</td>
-      <td>All the links, form, button appears good</td>
-      <td>responsive design / Good</td>
-    </tr>
-    <tr>
-      <td>Firefox</td>
-      <td>All the links, form, button appears good</td>
+      <td>All the links, images, and buttons appear good</td>
       <td>responsive design/ Good</td>
     </tr>
  
