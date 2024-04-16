@@ -345,7 +345,10 @@ Website is tested acrossed below browsers to check performance
 
 # Technologies Used
 ## Languages
-languages used: HTML(page structures) and CSS3(styling of the page).
+languages used: 
+- HTML(page structures) 
+- CSS3(styling of the page)
+- Javascript (Functionalities)
 
 ## Bugs & Solutions
 
@@ -402,13 +405,12 @@ languages used: HTML(page structures) and CSS3(styling of the page).
 
 # Credits
 ## Reference
-- Toggle feature was taken from Ci project "love Running"
 - Used <a href="https://www.w3schools.com/" target="_blank"> W3Schools </a> to implement some sections of my website.
-- I watched video <a href="https://www.youtube.com/watch?v=Jq_Zebxa-YI&ab_channel=EasyCode" target="_blank">here </a> on how to add background video.
+- I watched video <a href="https://www.youtube.com/watch?v=NTDBKgBY6JU&t=229s&ab_channel=CodeGrind" target="_blank">here </a> on how to create rock paper scissors game
 
 
 - I watched video <a href="https://www.youtube.com/watch?v=Trw_9lisYVY&ab_channel=Tech2etc" target="_blank">here </a> on how to make responsive gallary.
-- I watched video <a href="https://www.w3schools.com/html/html5_video.asp" target="_blank">here </a> on how to control in the video so it doesn't autoplay.
+- I used My mantor Spancer piece of code on restart button to clear out all the scores.
 - followed the steps provided in PP1 readMe video <a href="https://www.youtube.com/watch?v=jFGIQU2VVHc&ab_channel=MediaUpload" target="_blank" >here</a>
 
 ## Media
