@@ -119,12 +119,8 @@ Folder is set to / (root).
 6. On the right-hand side, in the Environments section, click on 'Github-pages'.
 
 # Features
-## Navigation Bar
-  - navbar is located at the top of the page. 
-  - mags logo at the top left corner
-  - navigation menu at top right corner
-
-  ![navigation](assets/documents/navbar.png)
+## Home Page
+  ![navigation](assets/images/home.png)
 
 
 ## Video
