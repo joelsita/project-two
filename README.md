@@ -314,16 +314,18 @@ Website is tested acrossed below browsers to check performance
 - Errors and warings fixed
 ![CSS](assets/images/css-error&warning-fixed.png)
 
+## Javascript Validation
+- Errors and Warnings
+![CSS](assets/images/js-errors.png)
+- Errors and Warnings fixed
+![CSS](assets/images/js-errors-fixed.png)
+
+
 ## Lighthouse Test
 ### performance 
 * was less than 90%. I reduced image width to 600px and this improves the overall preformance and accessibility. 
 ![CSS](assets/documents/lighthouse%20test.jpg)
 
-## Javascript Validation
-- Errors and Warnings
-![CSS](assets/documents/lighthouse%20test.jpg)
-- Errors and Warnings fixed
-![CSS](assets/documents/lighthouse%20test.jpg)
 
 ## Libraries and Programs:
 - Used Visual Studio Code  as editor.
