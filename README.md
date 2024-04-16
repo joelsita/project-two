@@ -132,21 +132,21 @@ The folder is set to / (root).
 
 ## Game Page
   ![navigation](assets/images/game.png)
- - Game title
- - There are 6 buttons in Game page
-   - Play-game button: display in grey colour to show where you are located in the page. I have added orange colour when the user hover-on home button.
-   - home game button: Displays in blue colour, when when the user hover-on  button it changes in orange. This button brings the user in home page. 
-   - Three buttons of game choce .used hands emoji symbol which represent Rock Paper and Scissors.
-   - restart button: instead of the user to keep refreshing the page to start new game this functionlity gives the user the power to clear the results and start fresh.
+  - Game title
+ - There are 6 buttons on the Game page
+   - Play-game button: display in grey colour to show where you are located on the page. I have added an orange colour when the user hover-on the home button.
+   - home game button: Displays in blue colour, when the user hover-on  the button it changes to orange. This button brings the user to the home page. 
+   - Three buttons of game choice used the hands emoji symbol which represents Rock Paper and Scissors.
+   - restart button: instead of the user refreshing the page to start a new game this functionality gives the user the power to clear the results and start fresh.
 - player and computer choice section:
-  - computer choice shows first follow by player's choice.
+  - computer choice shows first followed by the player's choice.
 - Results section
-  - if computer wins the message is display in red colour
-  - if user wins the message is display in green colour
-  - if the result is tie then the message is displayed in black colour.
+  - if the computer wins the message is displayed in red colour
+  - if the user wins the message is displayed in green colour
+  - if the result is tied then the message is displayed in black colour.
 - Game score section
-  - when computer win the score board is increamented by 1 and the colour is displayed in red. 
-   - when user win the score board is increamented by 1 and the colour is displayed in green. 
+  - when the computer wins the scoreboard is incremented by 1 and the colour is displayed in red. 
+   - when the user wins the scoreboard is incremented by 1 and the colour is displayed in green. 
 
 
 ## About us Section
