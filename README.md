@@ -121,15 +121,19 @@ Folder is set to / (root).
 # Features
 ## Home Page
   ![navigation](assets/images/home.png)
+  - Home page to serve as a teaser and trustworthy guide towards the pages that have the necessary information. 
+  - Home page displays the game Title and image which covers the element of the game.
+  - A brief descriptions of the game and rules on how to play.
+  - There are 4 buttons in home page
+    - Home button: display in grey colour to show where you are located in the page. I have added orange colour when the user hover-on home button.
+    - play game button: Displays in blue colour, when when the user hover-on  button it changes in orange. This button brings the user in game page.
 
+  - play now button: Displays in blue colour, when when the user hover-on  button it changes in orange. This button brings the user in game page.
 
-## Video
-I have included a video taken during our "happy child" event to capture visitor's mind when they land to our page. this video shows an image of Childrens with a happy face.
-![video](assets/documents/video.jpg)
+## Game Page
+  ![navigation](assets/images/game.png)
 
-
-## Welcone message
-This section is to welcome new & old user and thanks who visit our website.
+ - Play-game button: display in grey colour to show where you are located in the page. I have added orange colour when the user hover-on home button.
 
 ## About us Section
 This section provide about information about mags foundation. This outline your principle and goals. it provides great deatils of the services we operate.
