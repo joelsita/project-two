@@ -115,6 +115,9 @@ nav ul li a{
         padding: 12px 25px;
         letter-spacing: 1.5px;
         background-color: rgb(81, 81, 247);
+        width:50%;
+         margin:auto;
+        text-align: center;
       }
     
       .game-rules .btn:hover{
@@ -197,9 +200,10 @@ nav ul li a{
   }
 
   .game-rules .btn{
-    color: #fff;
-    padding: 12px 25px;
-    letter-spacing: 1.5px;
+    width:50%;
+    margin:auto;
+    text-align: center;
+  
   }
 
   .game-rules h2{
