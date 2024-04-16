@@ -2,7 +2,20 @@
 [live project on Github](https://joelsita.github.io/project-two/)
 
 ## Project Description
-Rock, Paper, Scissors. The familiar game of Rock, Paper, Scissors is played like this: at the same time, two players display one of three symbols: a rock, paper, or scissors. A rock beats scissors, scissors beat paper by cutting it, and paper beats rock by covering it
+Rock, Paper, Scissors. The familiar game of Rock, Paper, Scissors is played like this: at the same time, two players display one of three symbols: a rock, paper, or scissors. A rock beats scissors, scissors beat paper by cutting it, and paper beats rock by covering it.
+- Website consist of two pages
+  - Home page: this includes an explaination of the game and the rules on how to play.
+
+  - Game page:there are four sections
+
+      - Game choices section: there are 3 button to chose from(Rock, paper and scissors)
+      - results section: this displays the result of each player choices. red message is for computer, black for tie and green is for user.
+
+      - Score section: this keep record of the game. this is to let each player knows of their results as they play the game.
+
+      - restart section: here the user can chose to restart the game from scratch instead of keep refreshing the page. This function wipes all the previous results and brings the game back to zero.
+
+
 
 ![overall site](assets/images/responsive-one.png)
 ![overall site](assets/images/responsive-two.png)
