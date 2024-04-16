@@ -1,8 +1,8 @@
-# Mags Foundation
-[live project on Github](https://joelsita.github.io/project-one/)
+# Rock-Paper-Sciscors
+[live project on Github](https://joelsita.github.io/project-two/)
 
 ## Project Description
-Mags foundation is a non-profit charity that is based in RD Congo. The founder of the charity is my brother (Magloire). We lost our dad when we were younger, my bother decided to give some back in turn to those who are orphan. When we went back to Congo we visited children's school and  minor prison, we saw how children were suffering my brother decided to create a foundation to help. Mags foundation was created in 2018. head of operation is based in Dublin, Ireland. However all the actions and activities takes place in RD Congo. The purpose of this website is to make people aware of the existence of mags foundation and to get people in involved in our activities.
+Rock, Paper, Scissors. The familiar game of Rock, Paper, Scissors is played like this: at the same time, two players display one of three symbols: a rock, paper, or scissors. A rock beats scissors, scissors beat paper by cutting it, and paper beats rock by covering it
 
 ![overall site](assets/documents/responsive.jpg)
 
