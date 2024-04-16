@@ -8,7 +8,7 @@ Rock, Paper, Scissors. The familiar game of Rock, Paper, Scissors is played like
 
   - Game page:there are four sections
 
-      - Game choices section: there are 3 button to chose from(Rock, paper and scissors)
+      - Game choices section: there are 3 buttons to chose from(Rock, paper and scissors)
       - results section: this displays the result of each player choices. red message is for computer, black for tie and green is for user.
 
       - Score section: this keep record of the game. this is to let each player knows of their results as they play the game.
@@ -75,26 +75,19 @@ Rock, Paper, Scissors. The familiar game of Rock, Paper, Scissors is played like
 # User experience (UX)
 ## User Stories
 
-The reason behind this website is to raise awareness about mags foundation activities, so peoples can get involved.
+- As a user playing the game, I want the description of the game to be simple and clear to understand.
+- I want a simple diagram which shows elements of the game.
+- I want want the game buttons to be easy to use and navitage around.
 
-Users can become a member or they can donate to help out with our annual event. They can simply do this by either contact us with email or phone, otherwise they can easily submit a form with their inquiries.
+- I want a message to display which options each player selected.
 
-Features to note are users can easily get in touch, donate, and join the community through links on the website. 
+- I want to keep track of my score.
+- I want to have the option to restart the game.
+- I want to be able to return from home page easily so I can go back read the game rules and description.
 
-### New User
 
-As a first-time user of the website to be able to: 
 
-- To navigate through the website and find relevant sections easily.
 
-- This website is a single page which makes it easy for new user to find important information.
-- I want New user to get to know mags foundation in great details.
-- new users should be about to find out about our current, past and futures activities.
-
-- new users have the options to contact us directly or to submit a form.
-
-### Old User
-- I want old user to check out upcoming events and get involved. 
 
 
 ## Design
