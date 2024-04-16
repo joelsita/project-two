@@ -100,7 +100,7 @@ The website consists of two pages. easy to navigate and smooth transition to go 
  ![wireforme](assets/documents/color-scheme.jpg)
 
 ## Imagery
-- Images for this website was taken from wikipedia.
+- Images for this website were taken from Wikipedia.
 
 
 # Deployment
