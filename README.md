@@ -93,13 +93,13 @@ Rock, Paper, Scissors. The familiar game of Rock, Paper, Scissors is played like
 ## Design
 Website is consist of one page. easy to navigate and smooth transition to go through each sections.
 ## Wireframes
-#### Mobile
- ![wireframes](assets/documents/mobileWireframe.jpg)
-
-
   #### Desktop
- ![wireforme](assets/documents/desktopWireframe.jpg)
+  #### Home page
+ ![wireforme](assets/images/wireframe.png)
 
+   #### Desktop
+  #### Game page
+ ![wireforme](assets/images/wireframe2.png)
 ## Colour Scheme
  ![wireforme](assets/documents/color-scheme.jpg)
 
