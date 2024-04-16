@@ -142,15 +142,15 @@ The folder is set to / (root).
   - computer choice shows first followed by the player's choice.
 - Results section
   - if the computer wins the message is displayed in red colour
-   ![navigation](assets/images/win.png)
+   ![Computer](assets/images/win.png)
   - if the user wins the message is displayed in green colour
-  ![navigation](assets/images/user-win.png)
+  ![player](assets/images/user-win.png)
   - if the result is tied then the message is displayed in black colour.
-   ![navigation](assets/images/tied.png)
+   ![tie](assets/images/tied.png)
 - Game score section
   - when the computer wins the scoreboard is incremented by 1 and the colour is displayed in red. 
    - when the user wins the scoreboard is incremented by 1 and the colour is displayed in green. 
-   ![navigation](assets/images/scores.png)
+   ![score](assets/images/scores.png)
 # Testing:
 ## Features Testing
 All th feaures of the website have been tested to make sure it working as designed.
@@ -327,8 +327,9 @@ Website is tested acrossed below browsers to check performance
 
 ## Lighthouse Test
 ### performance 
-* was less than 90%. I reduced image width to 600px and this improves the overall preformance and accessibility. 
-![CSS](assets/documents/lighthouse%20test.jpg)
+ 
+![LH](assets/images/home-lh.png)
+![LH](assets/images/game-lh.png)
 
 
 ## Libraries and Programs:
