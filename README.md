@@ -302,14 +302,27 @@ Website is tested acrossed below browsers to check performance
 
 # Code Validation:
 ## HTML Validation
-![HTML](assets/documents/html-validation.jpg)
+- Errors and warings 
+![HTML](assets/images/index-page-warnings.png)
+- Errors and warings fixed
+![HTML](assets/images/index-page-error-fixed.png)
 
 ## CSS Validation
-![CSS](assets/documents/css-validation.jpg)
+- Errors and warings 
+![CSS](assets/images/css-error&warnings.png)
+
+- Errors and warings fixed
+![CSS](assets/images/css-error&warning-fixed.png)
 
 ## Lighthouse Test
 ### performance 
 * was less than 90%. I reduced image width to 600px and this improves the overall preformance and accessibility. 
+![CSS](assets/documents/lighthouse%20test.jpg)
+
+## Javascript Validation
+- Errors and Warnings
+![CSS](assets/documents/lighthouse%20test.jpg)
+- Errors and Warnings fixed
 ![CSS](assets/documents/lighthouse%20test.jpg)
 
 ## Libraries and Programs:
