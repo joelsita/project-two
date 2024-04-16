@@ -295,6 +295,10 @@ Website is tested acrossed below browsers to check performance
      1 = rock
      2 = paper
      3 = scissors
+   - Game scores
+     - I played the few times, the scoreboard is incrementing each time each players wins.
+   - Restart button
+    - clicked restart all the scores is wiped out and set the scores back to zero.
 
 # Code Validation:
 ## HTML Validation
