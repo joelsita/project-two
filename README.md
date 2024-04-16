@@ -4,7 +4,8 @@
 ## Project Description
 Rock, Paper, Scissors. The familiar game of Rock, Paper, Scissors is played like this: at the same time, two players display one of three symbols: a rock, paper, or scissors. A rock beats scissors, scissors beat paper by cutting it, and paper beats rock by covering it
 
-![overall site](assets/documents/responsive.jpg)
+![overall site](assets/images/responsive-one.png)
+![overall site](assets/images/responsive-two.png)
 
 
 
