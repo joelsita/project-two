@@ -121,14 +121,14 @@ The folder is set to / (root).
 # Features
 ## Home Page
   ![navigation](assets/images/home.png)
-  - Home page to serve as a teaser and trustworthy guide towards the pages that have the necessary information. 
-  - Home page displays the game Title and image which covers the element of the game.
-  - A brief descriptions of the game and rules on how to play.
-  - There are 4 buttons in home page
-    - Home button: display in grey colour to show where you are located in the page. I have added orange colour when the user hover-on home button.
-    - play game button: Displays in blue colour, when when the user hover-on  button it changes in orange. This button brings the user in game page.
+  - The home page to serve as a teaser and trustworthy guide towards the pages that have the necessary information. 
+  - The home page displays the game Title and image which covers the element of the game.
+  - A brief description of the game and rules on how to play.
+  - There are 4 buttons on the home page
+    - Home button: display in grey colour to show where you are located on the page. I have added an orange colour when the user hover-on the home button.
+    - play game button: Displays in blue colour, when the user hovers on  the button it changes to orange. This button brings the user to the game page.
 
-  - play now button: Displays in blue colour, when when the user hover-on  button it changes in orange. This button brings the user in game page.
+  - play now button: Displays in blue colour, when the user hovers over  button it changes to orange. This button brings the user to the game page.
 
 ## Game Page
   ![navigation](assets/images/game.png)
