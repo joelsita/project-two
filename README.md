@@ -142,38 +142,15 @@ The folder is set to / (root).
   - computer choice shows first followed by the player's choice.
 - Results section
   - if the computer wins the message is displayed in red colour
+   ![navigation](assets/images/win.png)
   - if the user wins the message is displayed in green colour
+  ![navigation](assets/images/user-win.png)
   - if the result is tied then the message is displayed in black colour.
+   ![navigation](assets/images/tied.png)
 - Game score section
   - when the computer wins the scoreboard is incremented by 1 and the colour is displayed in red. 
    - when the user wins the scoreboard is incremented by 1 and the colour is displayed in green. 
-
-
-## About us Section
-This section provide about information about mags foundation. This outline your principle and goals. it provides great deatils of the services we operate.
-![video](assets/documents/about.jpg)
-
-## Galleries section
-Here I have included some of the pictures that was captured during our annual events. Those images provide physical represention of the activies we run. I have added a hover affect when user hover  on a picture the sizes increases and has shadow
-![video](assets/documents/galleries.jpg)
-
-## News &Events 
-In this section we have provided users with all the news & events that will take place throughout the year.
-
-![news](assets/documents/new-one.jpg)
-![news](assets/documents/news-two.jpg)
-
-## Contact US
-This section is divided in two halves. I have provided our contact details in case the users want to get in contact with us. 
-I have also provide a form for users to submit their inquiries 
-![contact](assets/documents/contact-one.jpg)
-![contact](assets/documents/contact-two.jpg)
-created activation <a href="https://formsubmit.co/" target="_blank"> here </a>. I replaced my naked email and replaced it with string ID "68b701a9289a54a8c8eab30e59949984. I submited a form and received the form in my email.
-
-## Footer
-footer section contain our social media in case the visitor want to follow us.
-![footer](assets/documents/footer.jpg)
-
+   ![navigation](assets/images/scores.png)
 # Testing:
 ## Features Testing
 All th feaures of the website have been tested to make sure it working as designed.
