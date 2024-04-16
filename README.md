@@ -73,13 +73,13 @@ Rock, Paper, Scissors. The familiar game of Rock, Paper, Scissors is played like
 
 - As a user playing the game, I want the description of the game to be simple and clear to understand.
 - I want a simple diagram which shows elements of the game.
-- I want want the game buttons to be easy to use and navitage around.
+- I want the game buttons to be easy to use and navigate around.
 
 - I want a message to display which options each player selected.
 
 - I want to keep track of my score.
 - I want to have the option to restart the game.
-- I want to be able to return from home page easily so I can go back read the game rules and description.
+- I want to be able to return from the home page easily so I can go back and read the game rules and description.
 
 
 
