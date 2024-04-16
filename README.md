@@ -108,12 +108,12 @@ Website is consist of one page. easy to navigate and smooth transition to go thr
 
 
 # Deployment
-1. Select project, go to the Settings tab of your GitHub repository.
-2. On the left-hand > under Code and automation section, select Pages.
+1. Select the project, and go to the Settings tab of your GitHub repository.
+2. On the left-hand > under the Code and Automation section, select Pages.
 3. under build and deployment >set 
 Source to 'Deploy from Branch'.
-Main branch is selected.
-Folder is set to / (root).
+The main branch is selected.
+The folder is set to / (root).
 4. Under Branch, click Save.
 5. Go back to the Code tab. Wait a few minutes for the build to finish and refresh your repo.
 6. On the right-hand side, in the Environments section, click on 'Github-pages'.
