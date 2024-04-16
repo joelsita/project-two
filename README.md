@@ -104,7 +104,7 @@ Website is consist of one page. easy to navigate and smooth transition to go thr
  ![wireforme](assets/documents/color-scheme.jpg)
 
 ## Imagery
-- Images for this website was taken from mags foundation social media pages.
+- Images for this website was taken from wikipedia.
 
 
 # Deployment
