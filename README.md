@@ -303,12 +303,16 @@ Website is tested acrossed below browsers to check performance
 # Code Validation:
 ## HTML Validation
 - Errors and warings 
+
 ![HTML](assets/images/index-page-warnings.png)
+
 - Errors and warings fixed
+
 ![HTML](assets/images/index-page-error-fixed.png)
 
 ## CSS Validation
 - Errors and warings 
+
 ![CSS](assets/images/css-error&warnings.png)
 
 - Errors and warings fixed
