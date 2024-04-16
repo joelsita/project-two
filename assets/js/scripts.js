@@ -28,6 +28,10 @@ possibleChoices.forEach(possibleChoice => possibleChoice.addEventListener('click
 function generateComputerChoice() {
   // mapping it to display a whole Number
   const randomNumber = Math.floor(Math.random() * possibleChoices.length) + 1;
+  // - each time user select a move, computer is also generating a random numbers between 1-3. 
+  //    1 = rock
+  //    2 = paper
+  //    3 = scissors
   if (randomNumber === 1) {
     computerChoice = 'paper';
   }

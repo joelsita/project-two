@@ -205,17 +205,17 @@ Website is tested acrossed below browsers to check performance
   <tbody>
     <tr>
       <td>Chrome</td>
-      <td>All the links, form, button appears good</td>
+      <td>All the links, image and button appears good</td>
       <td>responsive design/ Good</td>
     </tr>
     <tr>
        <td>Edge</td>
-      <td>All the links, form, button appears good</td>
+      <td>All the links, image and button appears good</td>
       <td>responsive design / Good</td>
     </tr>
     <tr>
       <td>Firefox</td>
-      <td>All the links, form, button appears good</td>
+      <td>All the links, image and button appears good</td>
       <td>responsive design/ Good</td>
     </tr>
  
@@ -284,7 +284,17 @@ Website is tested acrossed below browsers to check performance
  
   </tbody>
 </table>
+
 ## Manual Testing
+  - Game's choice buttons
+    - I clicked rock button and it displaying message rock each time.
+     - I clicked paper button and it displaying message rock each time.
+     - I clicked scissors button and it displaying message scissors each time.
+   - computer's choice buttons
+     - each time user select a move, computer is also generating a random numbers between 1-3. 
+     1 = rock
+     2 = paper
+     3 = scissors
 
 # Code Validation:
 ## HTML Validation
