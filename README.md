@@ -132,8 +132,10 @@ Folder is set to / (root).
 
 ## Game Page
   ![navigation](assets/images/game.png)
-
- - Play-game button: display in grey colour to show where you are located in the page. I have added orange colour when the user hover-on home button.
+ - Game title
+ - There are 6 buttons in Game page
+   - Play-game button: display in grey colour to show where you are located in the page. I have added orange colour when the user hover-on home button.
+   - home game button: Displays in blue colour, when when the user hover-on  button it changes in orange. This button brings the user in home page. 
 
 ## About us Section
 This section provide about information about mags foundation. This outline your principle and goals. it provides great deatils of the services we operate.
