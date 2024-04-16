@@ -414,7 +414,7 @@ languages used:
 - followed the steps provided in PP1 readMe video <a href="https://www.youtube.com/watch?v=jFGIQU2VVHc&ab_channel=MediaUpload" target="_blank" >here</a>
 
 ## Media
-- All videos and pictures are from <a href="https://www.facebook.com/magloire.ndongo1" target="_blank">Mags foundation </a>
+- pictures are from <a href="https://en.wikipedia.org/wiki/Rock_paper_scissors" target="_blank">Mags foundation </a>
 - Used <a href="https://favicon.io/">Favicon</a> to add to site.
 - Used <a href="https://kit.fontawesome.com/be62d1111c.js" target="_blank">font awesome </a> to add social media icon.
 - Used <a href="https://fonts.google.com/" target="_blank"> Google Fonts </a> to style website page.
