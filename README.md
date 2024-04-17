@@ -137,11 +137,11 @@ The folder is set to / (root).
 - player and computer choice section:
   - computer choice shows first followed by the player's choice.
 - Results section
-  - if the computer wins the message is displayed in red colour
+  - If the computer wins the message is displayed in red colour
    ![Computer](assets/images/win.png)
-  - if the user wins the message is displayed in green colour
+  - If the user wins the message is displayed in green colour
   ![player](assets/images/user-win.png)
-  - if the result is tied then the message is displayed in black colour.
+  - If the result is tied then the message is displayed in black colour.
    ![tie](assets/images/tied.png)
 - Game score section
   - when the computer wins the scoreboard is incremented by 1 and the colour is displayed in red. 
