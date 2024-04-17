@@ -97,7 +97,7 @@ The website consists of two pages. easy to navigate and smooth transition to go 
   #### Game page
  ![wireforme](assets/images/wireframe2.png)
 ## Colour Scheme
- ![wireforme](assets/documents/color-scheme.jpg)
+ ![wireforme](assets/images/colours.png)
 
 ## Imagery
 - Images for this website were taken from Wikipedia.
