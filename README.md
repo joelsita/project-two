@@ -318,55 +318,12 @@ languages used:
 
 ## Bugs & Solutions
 
-<table>
-  <thead>
-    <tr>
-      <th>Bugs</th>
-      <th>Section</th>
-       <th>Solution & Fix</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Once you switch to mobile version, click menu icon the dropdown displayed. This is remain on a larger screen</td>
-      <td>navigation bar</td>
-      <td>I included min-width: 768px
- #check:checked ~ ul li {
-    display: inline-block;
-    border: none;
-  } in media query 
-</td>
-    </tr>
-    <tr>
-       <td>At min-width: 768px I added padding of 24px .as result this made contact-us link showing out of place. </td>
-      <td>Navigation Bar</td>
-      <td>I removed padding</td>
-    </tr>
-    <tr>
-       <td>page width scretching making page's contect displaying out of place.</td>
-      <td>All Sections</td>
-      <td>added a container 
-.container {
-  max-width: 1080px;
-  width:100%;
-  margin: 0 auto;
-}</td>
-    </tr>
-      <tr>
-       <td>Welcome video auto playing</td>
-      <td>Main section</td>
-      <td> removed autoplay loop muted and added controls. This gives the users the ability to control the video</td>
-    </tr>
-  </tbody>
-</table>
-
-### Issue
-
-![bugs](assets/documents/bugs2.jpg)
+![bugs](assets/images/home-error.png)
+ - restart button showing out of page when you go screen that below is 600.
 
 ### Solution
 
-![bugs](assets/documents/bugs2-fixed.jpg)
+- bug is still not fixed.
 
 
 # Credits
