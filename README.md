@@ -301,12 +301,12 @@ The website is tested across the below browsers to check the performance
 ## Libraries and Programs:
 - Used Visual Studio Code  as editor.
 - Used Font Awesome for the social media icons.
-- Used GitHub as version control to add, commit and push to repository
-- Used Google fonts to traget elements font style.
-- Used balsamiq for wireframes
+- Used GitHub as version control to add, commit, and push to repository
+- Used Google fonts to target elements font style.
+- Used Balsamiq for wireframes
 - Google Chrome 
-- Firefox (For testing purpose)
-- MS Edge (For testing purpose)
+- Firefox (For testing purposes)
+- MS Edge (For testing purposes)
 
 
 # Technologies Used
