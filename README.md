@@ -319,11 +319,11 @@ languages used:
 ## Bugs & Solutions
 
 ![bugs](assets/images/home-error.png)
- - restart button showing out of page when you go screen that below is 600.
+ - The restart button showing out of page when you go screen that below is 600.
 
 ### Solution
 
-- bug is still not fixed.
+- The bug is still not fixed.
 
 
 # Credits
@@ -333,7 +333,7 @@ languages used:
 
 
 - I watched video <a href="https://www.youtube.com/watch?v=Trw_9lisYVY&ab_channel=Tech2etc" target="_blank">here </a> on how to make responsive gallary.
-- I used My mantor Spancer piece of code on restart button to clear out all the scores.
+I used My Mantor Spencer piece of code on the restart button to clear out all the scores.
 - followed the steps provided in PP1 readMe video <a href="https://www.youtube.com/watch?v=jFGIQU2VVHc&ab_channel=MediaUpload" target="_blank" >here</a>
 
 ## Media
